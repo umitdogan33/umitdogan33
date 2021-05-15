@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/CerenBdk?style=social)](https://github.com/CerenBdk?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/CerenBdk?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=CerenBdk.visitor-badge)](https://GitHub.com/CerenBdk/StrapDown.js/stargazers/)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=CerenBdk.visitor-badge)](https://GitHub.com/umitdogan33/StrapDown.js/stargazers/)
 ### Hi there 👋
 I'm ümit!
 
