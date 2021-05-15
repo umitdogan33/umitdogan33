@@ -6,7 +6,7 @@ I'm ümit!
 
 Contact me !
 
-<a href="https://www.youtube.com/channel/UC-UHnvMq34I28azrbdSK55Q/" target="_blank" rel="nofollow"><img alt="Ceren's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UC-UHnvMq34I28azrbdSK55Q/" target="_blank" rel="nofollow"><img alt="ümit's Linkedin" src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:umit9551@gmail.com" target="_blank" rel="nofollow"><img alt="umit's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
