@@ -2,7 +2,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/CerenBdk?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=CerenBdk.visitor-badge)](https://GitHub.com/CerenBdk/StrapDown.js/stargazers/)
 ### Hi there 👋
-I'm Ceren!
+I'm ümit!
 
 Contact me !
 
