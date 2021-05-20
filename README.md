@@ -2,11 +2,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/umitdogan33?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=umitdogan33.visitor-badge)](https://GitHub.com/umitdogan33/StrapDown.js/stargazers/)
 ### Hi there 👋
-I'm ümit!
+Hello I am ümit. I am a 13 years old.
 
 Contact me !
 
-<a href="https://www.youtube.com/channel/UC-UHnvMq34I28azrbdSK55Q/" target="_blank" rel="nofollow"><img alt="ümit's Linkedin" src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UC-UHnvMq34I28azrbdSK55Q/" target="_blank" rel="nofollow"><img alt="ümit's Youtube" src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:umit9551@gmail.com" target="_blank" rel="nofollow"><img alt="umit's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
